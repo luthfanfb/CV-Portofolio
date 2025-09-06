@@ -1,4 +1,3 @@
-# Test Plan Example
 ## 1. Objective
 Verify that the Shopping Cart feature functions correctly
 
