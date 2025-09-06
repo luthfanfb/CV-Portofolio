@@ -1,42 +1,38 @@
 ## Title
-*Short, clear description of the issue*
+Users can reduce the quantity of an item on the cart to zero
 
 ## ID
-*Unique identifier, e.g., BUG-001*
+BUG-001
 
 ## Reported by
-*Your name*
+Luthfan Fikri
 
 ## Date
-*YYYY-MM-DD*
+2025-01-01
 
 ## Environment
-- **Device/OS:** e.g., Windows 11, Android 13  
-- **Browser/App version:** e.g., Chrome 115  
-- **Build version:** e.g., v1.2.3  
+- **Device/OS:** Windows 11
+- **Browser/App version:** Chrome
+- **Build version:** v1.1 
 
 ## Severity
-*Critical / Major / Minor / Trivial*
+Major
 
 ## Priority
-*High / Medium / Low*
+Medium
 
 ## Description
-*Detailed explanation of the bug*
+Users can reduce the quantity of an item on the cart to zero. Despite the minus button looks disabled, it reduced the quantity still.  
 
 ## Steps to Reproduce
-1. Step one  
-2. Step two  
-3. Step three  
+1. Add an item from Shop A. Make sure the quantity is one
+2. Go to the cart. See the item and click the minus button. 
 
 ## Expected Result
-*What should happen*
+The quantity stays at one when user clicked the minus button. 
 
 ## Actual Result
-*What actually happens*
-
-## Attachments
-*Screenshots, logs, videos, etc.*
+The quantity is at zero after user clicked the minus button. 
 
 ## Status
-*Open / In Progress / Fixed / Closed*
+Open
