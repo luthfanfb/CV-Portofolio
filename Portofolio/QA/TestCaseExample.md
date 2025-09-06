@@ -25,5 +25,7 @@
 - Shop B and item from it remained on the cart
 
 **Status:** Pass 
+
 **Tester:** Luthfan 
+
 **Execution Date:** [Date]  
