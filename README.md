@@ -1,5 +1,5 @@
 # Resume & Portofolio
-This repository is where I put my resume and portofolio to demonstrate my ability. 
+Documents demonstrating my experience and QA practices I have learned.
 
 ## Table of Contents
 - [Resume](LuthfanFikri-Resume.pdf)
