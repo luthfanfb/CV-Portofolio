@@ -1,10 +1,8 @@
-## (Bug) Users can reduce the quantity of an item on the cart to zero
+### Bug ID: BUG-001
 
-**ID**: BUG-001
+**Title:** Users can reduce the quantity of an item on the cart to zero
 
 **Date**: 2025-01-01
-
-**Tester:** Luthfan Fikri
 
 **Environment**
 - Device/OS: Windows 11
@@ -30,3 +28,6 @@ The quantity is at zero after user clicked the minus button.
 
 **Status:**
 Open
+
+**Tester:** 
+Luthfan Fikri
